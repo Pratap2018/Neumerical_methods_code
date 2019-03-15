@@ -4,7 +4,7 @@
 #define E .000001
 
 double func(double x){
- return  ((pow(x,3)-x-1));// provide the equation
+ return  ((pow(x,3)-2*x-5));// provide the equation
 }
 double bisection(double a,double b){
     return (a+b)/2;

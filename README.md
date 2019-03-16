@@ -6,8 +6,8 @@
 
 * Bisection method :Input: a and b (provide a range of a and b)
 * Output: root (along with ittr)
-![Output](/Neumerical_methods_code/bisection_method/bisection.png)
-
+![Output](https://github.com/Pratap2018/Neumerical_methods_code/blob/master/bisection_method/bisection.png)
+:v:
 ####
 =========================================
 ###### compile from linux with :g++ Newton_rapshon.cpp -o Newton_rapshon
@@ -15,5 +15,5 @@
 
 * Bisection method :Input: Any valid value
 * Output: root (along with ittr)
-![Output](/Neumerical_methods_code/newton raphson/newton.png)
-
+![Output](https://github.com/Pratap2018/Neumerical_methods_code/blob/master/newton%20raphson/newton.png)
+:v:

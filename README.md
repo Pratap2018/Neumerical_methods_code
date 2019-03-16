@@ -13,7 +13,7 @@
 =========================================
 ###### compile from linux with :g++ Newton_rapshon.cpp -o Newton_rapshon
 ###### run :./Newton_rapshon
-* Bisection method :Input: Any valid value
+* Newton_rapshon method :Input: Any valid value
 * Output: root (along with ittr)
 :v:
 #####

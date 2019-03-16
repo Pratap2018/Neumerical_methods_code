@@ -5,7 +5,7 @@
 
 int main(){
 double(*f)(double)=[](double x){return (pow(x,3)-2*x-5);};//  add your own f(x)
-double(*df)(double)=[](double x){ return (3*pow(x,2)-2);};//  f'(x)
+double(*df)(double)=[](double x){ return (3*pow(x,2)-2);};//  add f'(x)
 void (*print)(double,double(*)(double))=[](double x,auto func){std::cout<<"Value :"<<func(x)<<std::endl;};
 double x0,h;
 std::cout.precision(10);

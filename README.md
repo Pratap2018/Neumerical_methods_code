@@ -1,4 +1,4 @@
-#### This is Clg assignment related....:v:
+#### This is Clg assignment related....
 #### Neumerical_methods_code
 =========================================
 ###### compile from linux with : gcc bisection.c -o bisection -lm
